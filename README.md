@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Executing program
 ========================
 ```
-python face_mask_detector.py --fps 15 video.mp4 --display
+python face_mask_detector.py --fps 15 --display
 ```
 
 fps: frame per second
