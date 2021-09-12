@@ -6,7 +6,7 @@ Face & Mask Detection
 
 Dependencies
 ========================
-python 3.6
+python 3.6, cmake
 
 ```
 pip install -r requirements.txt
